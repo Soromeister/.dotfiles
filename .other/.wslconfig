@@ -1,0 +1,15 @@
+[wsl2]
+swap=0MB
+guiApplications=true
+nestedVirtualization=true
+
+[experimental]
+autoMemoryReclaim=gradual
+sparseVhd=true
+#networkingMode=mirrored
+#dnsTunneling=true
+#firewall=false
+#autoProxy=true
+#useWindowsDnsCache=true
+#bestEffortDnsParsing=true
+#hostAddressLoopback=true
